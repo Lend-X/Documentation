@@ -1,2 +1,2 @@
-# docs
+# Documentation
 Lend-X Protocol Documentation
